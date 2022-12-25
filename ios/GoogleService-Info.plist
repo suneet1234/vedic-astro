@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>538661078427-37n6f0vttc0rns2vrrr6v56dbci1410g.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.538661078427-37n6f0vttc0rns2vrrr6v56dbci1410g</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>538661078427-vhhnqtcgqffvba1khn412mhlir0mmu6h.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_jn64Rg1vOgQt67rgGlbhc8ecRDI2a4Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>538661078427</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.alepo.wifi</string>
+	<key>PROJECT_ID</key>
+	<string>orangeapp-d472d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>orangeapp-d472d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:538661078427:ios:1878e62524a47af9b54d3e</string>
+</dict>
+</plist>

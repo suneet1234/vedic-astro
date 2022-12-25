@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "538661078427",
+    "project_id": "orangeapp-d472d",
+    "storage_bucket": "orangeapp-d472d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538661078427:android:6459777b270566eeb54d3e",
+        "android_client_info": {
+          "package_name": "com.alepo.wifi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538661078427-vhhnqtcgqffvba1khn412mhlir0mmu6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alepo.wifi",
+            "certificate_hash": "d567f6d12b27fd8d3a79ec32df38f7fac87851ea"
+          }
+        },
+        {
+          "client_id": "538661078427-tasmcvmg5gm2g7bb33mk6kbdtfmgvrq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_LwrFPKkNjgWbvwX2BrkrfmI5jgvTDRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538661078427-tasmcvmg5gm2g7bb33mk6kbdtfmgvrq1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "538661078427-31725u6ksjttscr3cc168koipcqrqok8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ios.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

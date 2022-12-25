@@ -1,0 +1,13 @@
+diff --git a/node_modules/@react-native-firebase/messaging/RNFBMessaging.podspec b/node_modules/@react-native-firebase/messaging/RNFBMessaging.podspec
+index 1f94995..b72dc9c 100644
+--- a/node_modules/@react-native-firebase/messaging/RNFBMessaging.podspec
++++ b/node_modules/@react-native-firebase/messaging/RNFBMessaging.podspec
+@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
+   s.authors             = "Invertase Limited"
+   s.source              = { :git => "https://github.com/invertase/react-native-firebase.git", :tag => "v#{s.version}" }
+   s.social_media_url    = 'http://twitter.com/invertaseio'
+-  s.ios.deployment_target = "10.0"
++  s.ios.deployment_target = "11.0"
+   s.source_files        = 'ios/**/*.{h,m}'
+ 
+   # React Native dependencies
